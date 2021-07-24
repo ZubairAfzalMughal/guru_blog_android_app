@@ -4,6 +4,7 @@ It is a blog application that will display the post of user and other sign in al
 This Application has following features
 
 ## Register
+https://github.com/ZubairAfzalMughal/guru_blog_android_app/issues/1#issue-952039478
 ## Login
 ## Created Post
 ## write comments on each post
