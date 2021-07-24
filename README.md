@@ -3,7 +3,7 @@
 It is a blog application that will display the post of user and other sign in all over the world
 This Application has following features
 
-# Register
+## Register
 # Login
 # Created Post
 # write comments on each post
